@@ -1,0 +1,4 @@
+git init
+git status
+git add text1.txt
+git commit -m "some msg"
