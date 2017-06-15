@@ -2,3 +2,12 @@ git init
 git status
 git add text1.txt
 git commit -m "some msg"
+git remote add origin https://url of repository
+git push -u origin master
+
+git log
+git --help
+ 
+--To user user name and url
+git config --global user.email "divyavani34@gmail.com"
+git config --global user.name "VaniDivya"
